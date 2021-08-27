@@ -1,10 +1,10 @@
 # react_e_storefront
 
-This project is meant to practice React while exploring appropriate libraries. This will also be a chance for me to explore Jenkins
+This project is meant to practice React while exploring appropriate libraries. This will also be a chance for me to explore Jenkins.
 
 ## Jenkins
 
-Pipeline set up to run jenkins file stage when any branch is pushed
+Pipeline set up to run jenkins file stage when any branch is pushed.
 
 ## Jest
 
