@@ -6,6 +6,8 @@ This project is meant to practice React while exploring appropriate libraries. T
 
 Pipeline set up to run jenkins file stage when any branch is pushed.
 
+- Currently broken, plugin configuration UI does not match with documentation
+
 ## Jest
 
 - Learned that create-react-app ships with jest
