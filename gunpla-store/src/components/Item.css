@@ -1,0 +1,44 @@
+.card {
+  position: relative;
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid grey;
+  border-radius: 1rem;
+  width: 20rem;
+
+  background: #ffffff;
+}
+
+.card-name {
+  /* margin: 1rem; */
+}
+
+.card-img {
+  max-width: 100%;
+}
+
+.tag-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  margin-bottom: 1rem;
+  padding: 0;
+}
+
+.tag {
+  margin: 0.3rem;
+  padding: 0.3rem 0.5rem;
+  border: 1px solid grey;
+  border-radius: 0.5rem;
+}
+
+.card-date {
+  display: inline-block;
+  position: absolute;
+  margin: 0;
+  padding: 0.5rem;
+  bottom: 0px;
+
+  font-weight: 100;
+}
