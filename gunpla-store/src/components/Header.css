@@ -1,5 +1,9 @@
 .header {
+  display: flex;
+  justify-content: space-between;
+
   margin-bottom: 1rem;
+
   background-color: #5e5e5e;
 }
 
@@ -7,5 +11,26 @@
   margin: 0;
   padding: 2rem 4rem;
 
+  display: inline-block;
+
   color: #dddddd;
+}
+
+.user-buttons {
+  display: flex;
+  margin: 0;
+  padding: 2.2rem;
+}
+
+.sign-up-button {
+  margin: 0;
+  padding: 0.3rem 0.5rem;
+
+  vertical-align: middle;
+
+  color: #dddddd;
+}
+
+.sign-up-button:hover {
+  cursor: pointer;
 }
